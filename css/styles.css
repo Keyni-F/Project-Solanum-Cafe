@@ -1,2 +1,6 @@
 @import "global.css";
 @import "main.css";
+
+.text-font {
+  color: blue;
+}
