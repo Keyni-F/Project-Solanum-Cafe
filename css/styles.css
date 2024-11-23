@@ -4,3 +4,15 @@
 .text-font {
   color: blue;
 }
+
+.tea-coffee-tab {
+  padding: 30px;
+  text-align: center;
+  background: #000000;
+}
+
+.shop-headline {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
