@@ -1,10 +1,6 @@
 @import "global.css";
 @import "main.css";
 
-.text-font {
-  color: blue;
-}
-
 .tea-coffee-tab {
   padding: 30px;
   text-align: center;
@@ -16,3 +12,8 @@
   margin-bottom: 20px;
   color: #ffffff;
 }
+
+.coffee-section {
+  background-color: var(--secondaryColor) !important;
+}
+)
