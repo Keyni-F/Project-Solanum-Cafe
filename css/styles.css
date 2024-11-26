@@ -9,10 +9,7 @@
 
 .shop-headline {
   text-align: center;
+  font-size: 30px;
   margin-bottom: 20px;
   color: #ffffff;
-}
-
-.coffee-section {
-  background-color: var(--secondaryColor) !important;
 }
