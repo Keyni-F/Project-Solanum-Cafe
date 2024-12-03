@@ -19,27 +19,30 @@
   color: #000000;
   font-weight: normal;
   font-size: 20px;
-  padding: 15px;
+  padding: 30px;
   height: auto;
+  max-width: 1000px;
   margin-top: 18px;
   margin-bottom: 18px;
-  max-width: 1000px;
-  margin-left: px;
+  margin-left: 18px;
   margin-right: 18px;
 }
 
 .featured-product-img {
-  width: 50%;
-  display: block;
-  margin: 0px auto;
+  height: auto;
+  width: auto;
+  max-width: 600px;
+  max-height: 300px;
+  float: right;
+  margin-right: 30px;
 }
 
 a.btn.btn-primary {
   margin-top: 20px;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 .featured-text {
-  margin-left: 50px;
-  box-sizing: border-box;
+  margin-right: 20px;
+  margin-left: 20px;
 }
