@@ -36,5 +36,10 @@
 
 a.btn.btn-primary {
   margin-top: 20px;
-  margin-left: 20px;
+  margin-left: 50px;
+}
+
+.featured-text {
+  margin-left: 50px;
+  box-sizing: border-box;
 }
