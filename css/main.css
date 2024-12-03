@@ -5,6 +5,17 @@
 .navbar-brand {
   color: #ffffff;
 }
-.navi-item {
+.nav-item {
+  color: #ffffff;
+}
+
+.footer-row {
+  background-color: var(--dominantColor) !important;
+}
+
+.footer-text {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
   color: #ffffff;
 }
