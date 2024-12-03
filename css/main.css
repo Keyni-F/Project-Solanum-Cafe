@@ -11,6 +11,8 @@
 
 .footer-row {
   background-color: var(--dominantColor) !important;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .footer-text {
