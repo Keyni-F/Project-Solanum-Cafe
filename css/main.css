@@ -1,3 +1,10 @@
 .navbar {
   background-color: var(--dominantColor) !important;
 }
+
+.navbar-brand {
+  color: #ffffff;
+}
+.navlink {
+  color: #ffffff;
+}
