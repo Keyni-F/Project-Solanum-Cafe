@@ -15,7 +15,7 @@
 
 .featured-product {
   position: relative;
-  background-color: #f6f8fa;
+  background-color: var(--secondaryColor) !important;
   color: #000000;
   font-weight: normal;
   font-size: 20px;
