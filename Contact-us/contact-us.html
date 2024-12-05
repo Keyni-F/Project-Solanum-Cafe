@@ -123,6 +123,20 @@
     <div>
       <!--Bootstrap JS CDN-->
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+      <!--Algolia Js-->
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+      <script type="text/javascript">
+        algoliasearchNetlify({
+          appId: "AL4EAJEQD8",
+          apiKey: "bca766297bcb07b1cfc57dca45d4a0d6",
+          siteId: "ab9c6d6b-abc0-494f-82a5-69b1fc5031e4",
+          branch: "main",
+          selector: "#search",
+        });
+      </script>
+
+      <script type="text/javascript" src="js/form.js"></script>
     </div>
   </body>
 </html>
