@@ -21,4 +21,8 @@
 
 .navbar {
     background-color: var(--dominantColor) !important;
+
   }
+
+  @import 'global.css';
+@import 'main.css';
