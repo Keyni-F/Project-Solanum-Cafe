@@ -1,3 +1,23 @@
+.Cafe-name {
+  text-align: center;
+  padding: 30px;
+  background-color: #f4f4f4;
+}
+
+.title-part-1 {
+  font-family: "Charm", cursive;
+  font-size: 3em;
+  font-weight: bold;
+  display: block;
+}
+
+.title-part-2 {
+  font-family: "Charm", cursive;
+  font-size: 2em;
+  font-weight: normal;
+  display: block;
+}
+
 .navbar {
   background-color: var(--dominantColor) !important;
 }
