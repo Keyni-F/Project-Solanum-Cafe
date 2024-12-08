@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
 
     <!-- local css -->
-    <link href="/css/coffee-page.css" rel="stylesheet" />
+    <link href="/css/About-Us.css" rel="stylesheet" />
   </head>
   <body>
     <header>
@@ -96,8 +96,8 @@
       <div class="container-fluid text-center footer-row">
         <div class="row">
           <div class="col-12">
-            <a class="footer-text" href="contact-us/contact-us"> Contact Us </a>
-            <a class="footer-text" href="#"> About Us </a>
+            <a class="footer-text" href="/Contact-us/contact-us.html"> Contact Us </a>
+            <a class="footer-text" href="/About-Us/About-Us-html"> About Us </a>
           </div>
         </div>
       </div>
@@ -114,9 +114,9 @@
       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
       <script type="text/javascript">
         algoliasearchNetlify({
-          appId: "AL4EAJEQD8",
-          apiKey: "bca766297bcb07b1cfc57dca45d4a0d6",
-          siteId: "ab9c6d6b-abc0-494f-82a5-69b1fc5031e4",
+          appId: "YDMBVO4CRH",
+          apiKey: "e0c1f0b02a27cf4392dead60bd872044",
+          siteId: "c30ebf30-1d5f-4ee6-9275-58f25ca37d72",
           branch: "main",
           selector: "#search",
         });
