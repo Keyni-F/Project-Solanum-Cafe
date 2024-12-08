@@ -24,6 +24,9 @@
   color: #ffffff;
 }
 
+.body {
+  font-family: "Rubik", serif;
+}
 .footer-row {
   background-color: var(--dominantColor) !important;
   padding-top: 30px;
