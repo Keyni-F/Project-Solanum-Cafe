@@ -24,10 +24,10 @@
   margin: 10px 0;
 }
 
-.button {
+.btn {
   background-color: var(--dominantColor) !important;
 }
 
-.button:hover {
+.btn:hover {
   background-color: var(--secondaryColor) !important;
 }
